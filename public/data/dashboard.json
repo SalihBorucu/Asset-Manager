@@ -1,0 +1,107 @@
+{
+  "openIssues": 80,
+  "openThisWeek": 17,
+  "approachingSla": 15,
+  "closedThisWeek": 23,
+  "pastSla": {
+    "count": 6,
+    "issues": [
+      {
+        "id": 56,
+        "asset": {
+          "id": 1,
+          "name": "HP Zbook 17 G6"
+        },
+        "reportedBy": {
+          "id": 38,
+          "name": "Sam Bevan"
+        },
+        "title": "Excessive fan noise",
+        "assignedTo": {
+          "id": 307,
+          "name": "Sylvia Finley"
+        }
+      },
+      {
+        "id": 162,
+        "asset": {
+          "id": 11,
+          "name": "Surface 3"
+        },
+        "reportedBy": {
+          "id": 189,
+          "name": "Kirstie Shields"
+        },
+        "title": "Excel keeps crashing",
+        "assignedTo": {
+          "id": 448,
+          "name": "Michael Thomas"
+        }
+      },
+      {
+        "id": 443,
+        "asset": {
+          "id": 13,
+          "name": "t630 Thin Client"
+        },
+        "reportedBy": {
+          "id": 22,
+          "name": "Martyn Buxton"
+        },
+        "title": "Unable to connect to X drive",
+        "assignedTo": {
+          "id": 448,
+          "name": "Michael Thomas"
+        }
+      },
+      {
+        "id": 810,
+        "asset": {
+          "id": 15,
+          "name": "t630 Thin Client"
+        },
+        "reportedBy": {
+          "id": 78,
+          "name": "Elizabeth Handley"
+        },
+        "title": "Unable to connect to X drive",
+        "assignedTo": {
+          "id": 91,
+          "name": "Amelia Harris"
+        }
+      },
+      {
+        "id": 966,
+        "asset": {
+          "id": 37,
+          "name": "EPOS Terminal"
+        },
+        "reportedBy": {
+          "id": 478,
+          "name": "Emma Bennett"
+        },
+        "title": "Missing manager discount option",
+        "assignedTo": {
+          "id": 307,
+          "name": "Sylvia Finley"
+        }
+      },
+      {
+        "id": 1075,
+        "asset": {
+          "id": 24,
+          "name": "Thermal Receipt printer"
+        },
+        "reportedBy": {
+          "id": 93,
+          "name": "Lucy Robinson"
+        },
+        "title": "Exposed wire on printer cable",
+        "assignedTo": {
+          "id": 191,
+          "name": "Devon Thomson"
+        }
+      }
+    ]
+  }
+}

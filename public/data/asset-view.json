@@ -1,0 +1,136 @@
+{
+  "name": "HP Zbook 17 G6",
+  "manufacturer": "HP",
+  "type": "Laptop",
+  "assignee": {
+    "id": 38,
+    "name": "Sam Bevan"
+  },
+  "purchaseDate": "2019/02/05",
+  "purchasePrice": "2378.85",
+  "location": {
+    "id": 1,
+    "location": "Head Office"
+  },
+  "assetTag": "586",
+  "lastPatTest": "2019/06/26",
+  "description": "HP Z Book with 17\" full HD screen. 32GB RAM. Intel core i7 processor. 256GB SSD + 1Tb HDD.  No DVD drive.",
+  "issues": {
+    "open": [
+      {
+        "id": 56,
+        "asset": {
+          "id": 1,
+          "name": "HP Zbook 17 G6"
+        },
+        "reportedBy": {
+          "id": 38,
+          "name": "Sam Bevan"
+        },
+        "title": "Excessive fan noise",
+        "assignedTo": {
+          "id": 307,
+          "name": "Sylvia Finley"
+        }
+      },
+      {
+        "id": 2923,
+        "asset": {
+          "id": 1,
+          "name": "HP Zbook 17 G6"
+        },
+        "reportedBy": {
+          "id": 38,
+          "name": "Sam Bevan"
+        },
+        "title": "Office 365 license expired",
+        "assignedTo": {
+          "id": 191,
+          "name": "Devon Thomson"
+        }
+      }
+    ],
+    "closed": [
+      {
+        "id": 51,
+        "asset": {
+          "id": 1,
+          "name": "HP Zbook 17 G6"
+        },
+        "reportedBy": {
+          "id": 38,
+          "name": "Sam Bevan"
+        },
+        "title": "Unable to connect to X drive",
+        "assignedTo": {
+          "id": 307,
+          "name": "Sylvia Finley"
+        }
+      },
+      {
+        "id": 85,
+        "asset": {
+          "id": 1,
+          "name": "HP Zbook 17 G6"
+        },
+        "reportedBy": {
+          "id": 38,
+          "name": "Sam Bevan"
+        },
+        "title": "Unable to connect to external monitor",
+        "assignedTo": {
+          "id": 91,
+          "name": "Amelia Harris"
+        }
+      },
+      {
+        "id": 176,
+        "asset": {
+          "id": 1,
+          "name": "HP Zbook 17 G6"
+        },
+        "reportedBy": {
+          "id": 38,
+          "name": "Sam Bevan"
+        },
+        "title": "Unable to connect to sales data platform",
+        "assignedTo": {
+          "id": 307,
+          "name": "Sylvia Finley"
+        }
+      },
+      {
+        "id": 235,
+        "asset": {
+          "id": 1,
+          "name": "HP Zbook 17 G6"
+        },
+        "reportedBy": {
+          "id": 38,
+          "name": "Sam Bevan"
+        },
+        "title": "Software missing after latest updates",
+        "assignedTo": {
+          "id": 448,
+          "name": "Michael Thomas"
+        }
+      },
+      {
+        "id": 1333,
+        "asset": {
+          "id": 1,
+          "name": "HP Zbook 17 G6"
+        },
+        "reportedBy": {
+          "id": 38,
+          "name": "Sam Bevan"
+        },
+        "title": "Webcam not working",
+        "assignedTo": {
+          "id": 91,
+          "name": "Amelia Harris"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1148 @@
+{
+  "assets": [
+    {
+      "id": 1,
+      "name": "HP Zbook 17 G6",
+      "manufacturer": "HP",
+      "type": "Laptop",
+      "assignee": {
+        "id": 38,
+        "name": "Sam Bevan"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 7,
+        "open": 2,
+        "closed": 5
+      }
+    },
+    {
+      "id": 2,
+      "name": "VA24EHE 23.8\" Full HD",
+      "manufacturer": "Asus",
+      "type": "Monitor",
+      "assignee": {
+        "id": 38,
+        "name": "Sam Bevan"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 3,
+      "name": "iMac Pro",
+      "manufacturer": "Apple",
+      "type": "Computer",
+      "assignee": {
+        "id": 57,
+        "name": "Travis Collins"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ultrafine 5k Display",
+      "manufacturer": "LG",
+      "type": "Monitor",
+      "assignee": {
+        "id": 57,
+        "name": "Travis Collins"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 1,
+        "open": 0,
+        "closed": 1
+      }
+    },
+    {
+      "id": 5,
+      "name": "iMac Pro",
+      "manufacturer": "Apple",
+      "type": "Computer",
+      "assignee": {
+        "id": 104,
+        "name": "Sadie Hughes"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 6,
+      "name": "Ultrafine 5k Display",
+      "manufacturer": "LG",
+      "type": "Monitor",
+      "assignee": {
+        "id": 57,
+        "name": "Sadie Hughes"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 1,
+        "open": 0,
+        "closed": 1
+      }
+    },
+    {
+      "id": 7,
+      "name": "C403NA Chromebook",
+      "manufacturer": "Asus",
+      "type": "Laptop",
+      "assignee": {
+        "id": 12,
+        "name": "Zach Flower"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 5,
+        "open": 2,
+        "closed": 3
+      }
+    },
+    {
+      "id": 8,
+      "name": "C403NA Chromebook",
+      "manufacturer": "Asus",
+      "type": "Laptop",
+      "assignee": {
+        "id": 307,
+        "name": "Sylvia Finley"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 9,
+      "name": "C403NA Chromebook",
+      "manufacturer": "Asus",
+      "type": "Laptop",
+      "assignee": {
+        "id": 91,
+        "name": "Amelia Harris"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 10,
+      "name": "MacBook Pro 13",
+      "manufacturer": "Apple",
+      "type": "Laptop",
+      "assignee": {
+        "id": 6,
+        "name": "Victoria Clifford"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 11,
+      "name": "Surface 3",
+      "manufacturer": "Microsoft",
+      "type": "Laptop",
+      "assignee": {
+        "id": 19,
+        "name": "Josh Waller"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 3,
+        "open": 2,
+        "closed": 1
+      }
+    },
+    {
+      "id": 12,
+      "name": "Surface 3",
+      "manufacturer": "Microsoft",
+      "type": "Laptop",
+      "assignee": {
+        "id": 189,
+        "name": "Kirstie Shields"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 10,
+        "open": 1,
+        "closed": 9
+      }
+    },
+    {
+      "id": 13,
+      "name": "t630 Thin Client",
+      "manufacturer": "HP",
+      "type": "Computer",
+      "assignee": {
+        "id": 22,
+        "name": "Martyn Buxton"
+      },
+      "location": {
+        "id": 2,
+        "location": "Central Warehouse"
+      },
+      "issues": {
+        "total": 37,
+        "open": 8,
+        "closed": 29
+      }
+    },
+    {
+      "id": 14,
+      "name": "EliteDisplay E233",
+      "manufacturer": "HP",
+      "type": "Monitor",
+      "assignee": {
+        "id": 22,
+        "name": "Martyn Buxton"
+      },
+      "location": {
+        "id": 2,
+        "location": "Central Warehouse"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 15,
+      "name": "t630 Thin Client",
+      "manufacturer": "HP",
+      "type": "Computer",
+      "assignee": {
+        "id": 78,
+        "name": "Elizabeth Handley"
+      },
+      "location": {
+        "id": 3,
+        "location": "Northern Dispatch Warehouse"
+      },
+      "issues": {
+        "total": 37,
+        "open": 8,
+        "closed": 29
+      }
+    },
+    {
+      "id": 16,
+      "name": "EliteDisplay E233",
+      "manufacturer": "HP",
+      "type": "Monitor",
+      "assignee": {
+        "id": 78,
+        "name": "Elizabeth Handley"
+      },
+      "location": {
+        "id": 3,
+        "location": "Northern Dispatch Warehouse"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 17,
+      "name": "B2442dw Mono Laser",
+      "manufacturer": "Lexmark",
+      "type": "Printer",
+      "assignee": {
+        "id": 78,
+        "name": "Elizabeth Handley"
+      },
+      "location": {
+        "id": 3,
+        "location": "Northern Dispatch Warehouse"
+      },
+      "issues": {
+        "total": 4,
+        "open": 1,
+        "closed": 3
+      }
+    },
+    {
+      "id": 18,
+      "name": "B2442dw Mono Laser",
+      "manufacturer": "Lexmark",
+      "type": "Printer",
+      "assignee": {
+        "id": 22,
+        "name": "Martyn Buxton"
+      },
+      "location": {
+        "id": 2,
+        "location": "Central Warehouse"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 19,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 29,
+        "name": "Ben Whittaker"
+      },
+      "location": {
+        "id": 4,
+        "location": "Swansea Oxford Street"
+      },
+      "issues": {
+        "total": 2,
+        "open": 2,
+        "closed": 0
+      }
+    },
+    {
+      "id": 20,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 29,
+        "name": "Ben Whittaker"
+      },
+      "location": {
+        "id": 4,
+        "location": "Swansea Oxford Street"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 21,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 93,
+        "name": "Lucy Robinson"
+      },
+      "location": {
+        "id": 5,
+        "location": "Cardiff High Street Arcade"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 22,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 93,
+        "name": "Lucy Robinson"
+      },
+      "location": {
+        "id": 5,
+        "location": "Cardiff High Street Arcade"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 23,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 93,
+        "name": "Lucy Robinson"
+      },
+      "location": {
+        "id": 5,
+        "location": "Cardiff High Street Arcade"
+      },
+      "issues": {
+        "total": 17,
+        "open": 12,
+        "closed": 5
+      }
+    },
+    {
+      "id": 24,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 93,
+        "name": "Lucy Robinson"
+      },
+      "location": {
+        "id": 5,
+        "location": "Cardiff High Street Arcade"
+      },
+      "issues": {
+        "total": 2,
+        "open": 1,
+        "closed": 1
+      }
+    },
+    {
+      "id": 25,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 172,
+        "name": "Darren Bates"
+      },
+      "location": {
+        "id": 6,
+        "location": "Bristol - Shopping Quarter"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 26,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 172,
+        "name": "Darren Bates"
+      },
+      "location": {
+        "id": 6,
+        "location": "Bristol - Shopping Quarter"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 27,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 200,
+        "name": "Emma Lowe"
+      },
+      "location": {
+        "id": 7,
+        "location": "Abergavenny - Cibi Walk"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 28,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 200,
+        "name": "Emma Lowe"
+      },
+      "location": {
+        "id": 7,
+        "location": "Abergavenny - Cibi Walk"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 29,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 217,
+        "name": "Sophie Gardner"
+      },
+      "location": {
+        "id": 7,
+        "location": "Abergavenny - Cibi Walk"
+      },
+      "issues": {
+        "total": 4,
+        "open": 1,
+        "closed": 3
+      }
+    },
+    {
+      "id": 30,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 217,
+        "name": "Sophie Gardner"
+      },
+      "location": {
+        "id": 7,
+        "location": "Abergavenny - Cibi Walk"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 31,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 29,
+        "name": "Ben Whittaker"
+      },
+      "location": {
+        "id": 4,
+        "location": "Swansea Oxford Street"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 32,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 29,
+        "name": "Ben Whittaker"
+      },
+      "location": {
+        "id": 4,
+        "location": "Swansea Oxford Street"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 33,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 222,
+        "name": "Charlotte Foley"
+      },
+      "location": {
+        "id": 8,
+        "location": "Bridgend - The Rhiw Shopping Centre"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 34,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 222,
+        "name": "Charlotte Foley"
+      },
+      "location": {
+        "id": 8,
+        "location": "Bridgend - The Rhiw Shopping Centre"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 35,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 229,
+        "name": "Anna Smith"
+      },
+      "location": {
+        "id": 9,
+        "location": "Carmarthen - Carmarthen Market"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 36,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 229,
+        "name": "Anna Smith"
+      },
+      "location": {
+        "id": 9,
+        "location": "Carmarthen - Carmarthen Market"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 37,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 478,
+        "name": "Emma Bennett"
+      },
+      "location": {
+        "id": 10,
+        "name": "Gateshead - Metro Centre"
+      },
+      "issues": {
+        "total": 15,
+        "open": 3,
+        "closed": 12
+      }
+    },
+    {
+      "id": 38,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 478,
+        "name": "Emma Bennett"
+      },
+      "location": {
+        "id": 10,
+        "name": "Gateshead - Metro Centre"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 39,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 486,
+        "name": "Dave Williams"
+      },
+      "location": {
+        "id": 12,
+        "name": "Newcastle - Eldon Square"
+      },
+      "issues": {
+        "total": 8,
+        "open": 1,
+        "closed": 7
+      }
+    },
+    {
+      "id": 40,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 486,
+        "name": "Dave Williams"
+      },
+      "location": {
+        "id": 12,
+        "name": "Newcastle - Eldon Square"
+      },
+      "issues": {
+        "total": 1,
+        "open": 0,
+        "closed": 1
+      }
+    },
+    {
+      "id": 41,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 501,
+        "name": "Jade Holland"
+      },
+      "location": {
+        "id": 12,
+        "name": "Durham - Prince Bishops Centre"
+      },
+      "issues": {
+        "total": 2,
+        "open": 1,
+        "closed": 1
+      }
+    },
+    {
+      "id": 42,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 501,
+        "name": "Jade Holland"
+      },
+      "location": {
+        "id": 12,
+        "name": "Durham - Prince Bishops Centre"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    null,
+    {
+      "id": 44,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 530,
+        "name": "Laura Draper"
+      },
+      "location": {
+        "id": 13,
+        "name": "Sunderland - Bridges Shopping Centre"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 45,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 530,
+        "name": "Laura Draper"
+      },
+      "location": {
+        "id": 13,
+        "name": "Sunderland - Bridges Shopping Centre"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 46,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 564,
+        "name": "Tonya Marsh"
+      },
+      "location": {
+        "id": 14,
+        "name": "York - Coppergate Shopping Centre"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 47,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 564,
+        "name": "Tonya Marsh"
+      },
+      "location": {
+        "id": 14,
+        "name": "York - Coppergate Shopping Centre"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 48,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 599,
+        "name": "Carys Edwards"
+      },
+      "location": {
+        "id": 15,
+        "name": "Hereford - All Saints Court"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 49,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 599,
+        "name": "Carys Edwards"
+      },
+      "location": {
+        "id": 15,
+        "name": "Hereford - All Saints Court"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 50,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 633,
+        "name": "James Winter"
+      },
+      "location": {
+        "id": 16,
+        "name": "Llanelli - Cowell Precinct"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    null,
+    {
+      "id": 52,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 633,
+        "name": "James Winter"
+      },
+      "location": {
+        "id": 16,
+        "name": "Llanelli - Cowell Precinct"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 53,
+      "name": "EPOS Terminal",
+      "manufacturer": "EPOS",
+      "type": "Till System",
+      "assignee": {
+        "id": 654,
+        "name": "Eden Andrews"
+      },
+      "location": {
+        "id": 17,
+        "name": "Neath - Wind Street"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 54,
+      "name": "Thermal Receipt printer",
+      "manufacturer": "Epson",
+      "type": "Printer",
+      "assignee": {
+        "id": 654,
+        "name": "Eden Andrews"
+      },
+      "location": {
+        "id": 17,
+        "name": "Neath - Wind Street"
+      },
+      "issues": {
+        "total": 1,
+        "open": 0,
+        "closed": 1
+      }
+    },
+    null,
+    {
+      "id": 56,
+      "name": "XPS 15",
+      "manufacturer": "Dell",
+      "type": "Laptop",
+      "assignee": {
+        "id": 844,
+        "name": "Kara Oakley"
+      },
+      "location": {
+        "id": 19,
+        "name": "Remote - Kara's House"
+      },
+      "issues": {
+        "total": 19,
+        "open": 17,
+        "closed": 2
+      }
+    },
+    {
+      "id": 57,
+      "name": "HL-L8260CDW Colour Laser",
+      "manufacturer": "Brother",
+      "type": "Printer",
+      "assignee": {
+        "id": 844,
+        "name": "Kara Oakley"
+      },
+      "location": {
+        "id": 19,
+        "name": "Remote - Kara's House"
+      },
+      "issues": {
+        "total": 1,
+        "open": 0,
+        "closed": 1
+      }
+    },
+    null,
+    {
+      "id": 59,
+      "name": "XPS 15",
+      "manufacturer": "Dell",
+      "type": "Laptop",
+      "assignee": {
+        "id": 752,
+        "name": "Mohsin Kumar"
+      },
+      "location": {
+        "id": 20,
+        "name": "Remote - Mohsin's House"
+      },
+      "issues": {
+        "total": 19,
+        "open": 17,
+        "closed": 2
+      }
+    },
+    {
+      "id": 60,
+      "name": "HL-L8260CDW Colour Laser",
+      "manufacturer": "Brother",
+      "type": "Printer",
+      "assignee": {
+        "id": 752,
+        "name": "Mohsin Kumar"
+      },
+      "location": {
+        "id": 20,
+        "name": "Remote - Mohsin's House"
+      },
+      "issues": {
+        "total": 5,
+        "open": 1,
+        "closed": 4
+      }
+    },
+    {
+      "id": 61,
+      "name": "C340-16 Chromebook",
+      "manufacturer": "Lenovo",
+      "type": "Laptop",
+      "assignee": {
+        "id": 444,
+        "name": "Kathryn Summers"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 62,
+      "name": "C340-16 Chromebook",
+      "manufacturer": "Lenovo",
+      "type": "Laptop",
+      "assignee": {
+        "id": 448,
+        "name": "Michael Thomas"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 63,
+      "name": "C340-16 Chromebook",
+      "manufacturer": "Lenovo",
+      "type": "Laptop",
+      "assignee": {
+        "id": 522,
+        "name": "Linda Smith"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    },
+    {
+      "id": 64,
+      "name": "C340-16 Chromebook",
+      "manufacturer": "Lenovo",
+      "type": "Laptop",
+      "assignee": {
+        "id": 191,
+        "name": "Devon Thomson"
+      },
+      "location": {
+        "id": 1,
+        "location": "Head Office"
+      },
+      "issues": {
+        "total": 0,
+        "open": 0,
+        "closed": 0
+      }
+    }
+  ]
+}
