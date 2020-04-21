@@ -1,20 +1,19 @@
 <template>
-    <div >
-        <div v-for="table in tables" :key="table" :id="table + 'Issues'">
-            <h2>{{ table | capitalize}} Issues ({{issues[table].length}})</h2>
-            <table class="table">
-                <thead>
-                    <tr>
-                        <td>Ticket #</td>
-                        <td>Issue Title</td>
-                        <td>Asset</td>
-                        <td>Reported By</td>
-                        <td>Assigned To</td>
-                        <td>Actions</td>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr v-for="issue in issues[table]" :key="issue">
+<div id="pastSLA" class="mt-3">
+        <h2>Issues past SLA (6)</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <td>Ticket #</td>
+                    <td>Issue Title</td>
+                    <td>Asset</td>
+                    <td>Reported By</td>
+                    <td>Assigned To</td>
+                    <td>Actions</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="issue in table_data" :key="issue">
                         <td>{{issue.id}}</td>
                         <td>{{issue.title}}</td>
                         <td>
@@ -37,10 +36,9 @@
                                 View
                             </a>
                         </td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+                </tr>
+            </tbody>
+        </table>
     </div>
 </template>
 
@@ -48,28 +46,17 @@
 export default {
     data() {
         return {
-            tables: ['open', 'closed'],
-            issues: {}
+            table_data: []
         }
     },
-
-    mounted(){
-        fetch('/data/asset-view.json')
+  mounted(){
+        fetch('/data/dashboard.json')
             .then((response) => {
                 return response.json();
             })
             .then((data) => {
-                this.issues = data.issues
+                this.table_data = data.pastSla.issues
             })
     },
-    
-    filters: {
-    capitalize: function (value) {
-        if (!value) return ''
-        value = value.toString()
-        return value.charAt(0).toUpperCase() + value.slice(1)
-  }
-}
-    
 }
 </script>

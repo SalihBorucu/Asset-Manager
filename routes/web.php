@@ -26,6 +26,6 @@ Route::get('/{view}', function ($view) {
 });
 
 
-// Route::get('/dashboard', function () {
-//     return view('dashboard');
-// });
+Route::post('/login', function () {
+    return redirect('/dashboard');
+});

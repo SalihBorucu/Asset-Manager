@@ -20,6 +20,8 @@ window.Vue = require('vue');
 // files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default))
 
 Vue.component('asset-view', require('./components/AssetView.vue').default);
+Vue.component("dashboard-table", require("./components/DashboardTable.vue").default);
+Vue.component("asset-table", require("./components/AssetTable.vue").default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to

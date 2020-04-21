@@ -3,7 +3,7 @@
 <div class="container vh-100">
     <div class="row h-100">
         <div class="col-md-6 mx-auto my-auto">
-            <form method="post" action="/dashboard">
+            <form method="post" action="/login">
                 @csrf
                 <h1 class="text-center">Asset Management Dashboard</h1>
                     <div class="form-group">

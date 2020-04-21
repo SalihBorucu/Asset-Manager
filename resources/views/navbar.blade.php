@@ -3,7 +3,7 @@
         <div id="current-user" class="d-flex ml-10 text-white">
             <img src="images/user-38.jpg" class="rounded-circle mr-2 " height="30px" alt="Sam Bevan"> 
             Sam Bevan
-            <a href="/index" class="mr-2 ml-2">Log Out</a>
+            <a href="/" class="mr-2 ml-2">Log Out</a>
         </div>
         <ul class="row flex align-item-center ">
             <li class="active nav-link ">
