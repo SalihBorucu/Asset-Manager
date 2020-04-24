@@ -1,4 +1,4 @@
-A Asset Manager Dashboard built as per task utilising Laravel and Vue frameworks.
+An Asset Manager Dashboard built as per task utilising Laravel and Vue frameworks.
 
 Requirements: Composer, Npm
 
